@@ -1,4 +1,4 @@
-.pdf
+*.pdf
 .quandlKey
-/.ipnyb_checkpoints
-.pkl
+*/.ipnyb_checkpoints
+*.pkl
