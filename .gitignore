@@ -1,5 +1,5 @@
 *.pdf
-/.ipnyb_checkpoints/*
+.ipynb_checkpoints/*
 *.pkl
 *.db
 *.apikey
