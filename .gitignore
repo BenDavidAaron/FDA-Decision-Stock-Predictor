@@ -1,5 +1,5 @@
 *.pdf
-.quandlKey
 /.ipnyb_checkpoints/*
 *.pkl
 *.db
+*.apikey
