@@ -6,10 +6,14 @@ My goal is to take this project from initial concept to a usable application.
 1. I have munged the FDA announcement dates and joined them to stock price time-series for the relevant companies
 1. I have sliced the relevant data into 120-day long preceding and following periods for data annotation and model training
 1. I have annotated the data
+1. I have calculated and selected important features from my training data
+1. I have selected and trained a Support Vector Classifier
+1. I have cross validated the model, and verified it preforms better than random or majority case guessing
 ### Upcoming:
-1. Select and train a binary classification model, incorporating some time series fourier magic
+1. Make some visualizations 
 1. Build and deploy a web application to track upcoming FDA action dates, and offer relevant investment insights (frankly, this _should_ have some sub-bullets, I anticipate it will be 1/2 of the work)
 ## End Goals:
 * Train a machine learning model to recognize simple trends in the pharmaceutical equities market
-* Learn web development the hard way
-* Make a real project with a real repository on GitHub so I have something to demonstrate my skills beyond the awful scripts I wrote in graduate school
+* Learn how to make compelling visualizations
+* Learn webapp development the hard way
+* Make a real project with a real repository on GitHub so I have something to demonstrate my skills beyond the lackluster scripts I wrote in graduate school
