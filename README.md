@@ -7,7 +7,7 @@ My goal is to take this project from initial concept to a usable application.
 1. I have sliced the relevant data into 120-day long preceding and following periods for data annotation and model training
 1. I have annotated the data
 1. I have calculated and selected important features from my training data
-1. I have selected and trained a Support Vector Classifier
+1. I have selected and trained a classification model (Support Vector Classifier)
 1. I have cross validated the model, and verified it preforms better than random or majority case guessing
 ### Upcoming:
 1. Make some visualizations 
