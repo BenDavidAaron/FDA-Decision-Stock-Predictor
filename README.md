@@ -9,11 +9,8 @@ My goal is to take this project from initial concept to a usable application.
 1. I have calculated and selected important features from my training data
 1. I have selected and trained a classification model (Support Vector Classifier)
 1. I have cross validated the model, and verified it preforms better than random or majority case guessing
+1. I have made a basic visualizaton showing how the model can trade better than a lay person
 ### Upcoming:
-1. Make some visualizations 
-1. Build and deploy a web application to track upcoming FDA action dates, and offer relevant investment insights (frankly, this _should_ have some sub-bullets, I anticipate it will be 1/2 of the work)
-## End Goals:
-* Train a machine learning model to recognize simple trends in the pharmaceutical equities market
-* Learn how to make compelling visualizations
+* Make a server (new repo) to constantly monitor the market and make trade decisions
 * Learn webapp development the hard way
 * Make a real project with a real repository on GitHub so I have something to demonstrate my skills beyond the lackluster scripts I wrote in graduate school

@@ -1,5 +1,9 @@
 *.pdf
+<<<<<<< Updated upstream
 .ipynb_checkpoints/*
+=======
+/.ipnyb_checkpoints/*
+>>>>>>> Stashed changes
 *.pkl
 *.db
 *.apikey
