@@ -16,6 +16,6 @@ Check out the approximate portfolio values for my model's trading recomendations
 SVM Advised Trades in Blue<br>Random Trades in Green<br>All Trades in Red
 
 ### Upcoming:
-* Make a server (new repo) to constantly monitor the market and make trade decisions
+* Make a server ([new repo](https://github.com/BenDavidAaron/pharm-predict-roboadvisor)) to constantly monitor the market and make trade decisions
 * Learn webapp development the hard way
 * Make a real project with a real repository on GitHub so I have something to demonstrate my skills beyond the lackluster scripts I wrote in graduate school
