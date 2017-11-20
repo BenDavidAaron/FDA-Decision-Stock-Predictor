@@ -10,6 +10,11 @@ My goal is to take this project from initial concept to a usable application.
 1. I have selected and trained a classification model (Support Vector Classifier)
 1. I have cross validated the model, and verified it preforms better than random or majority case guessing
 1. I have made a basic visualizaton showing how the model can trade better than a lay person
+
+Check out the approximate portfolio values for my model's trading recomendations:
+![look at that value!](https://i.imgur.com/0jmjKXH.png)
+SVM Advised Trades in Blue<br>Random Trades in Green<br>All Trades in Red
+
 ### Upcoming:
 * Make a server (new repo) to constantly monitor the market and make trade decisions
 * Learn webapp development the hard way
